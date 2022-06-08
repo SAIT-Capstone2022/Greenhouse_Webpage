@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark shadow" style="background-color: #3f573e">
+<nav class="navbar navbar-expand-lg navbar-dark shadow-lg bg-gradient" style="background-color: #3f573e">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.html">Green Piece</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
@@ -18,7 +18,7 @@
                 </li>
             </ul>
             <span class="navbar-text">
-
+            <a class="nav-item" href="index.html">Logout</a>
             </span>
         </div>
     </div>
